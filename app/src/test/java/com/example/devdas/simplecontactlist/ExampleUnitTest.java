@@ -1,4 +1,4 @@
-package com.example.inika.simplecontactlist;
+package com.example.devdas.simplecontactlist;
 
 import org.junit.Test;
 

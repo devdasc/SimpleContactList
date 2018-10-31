@@ -1,7 +1,7 @@
 //
 // https://www.android-examples.com/get-show-all-phone-contacts-into-listview-in-android/
 //
-package com.example.inika.simplecontactlist;
+package com.example.devdas.simplecontactlist;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
